@@ -43,7 +43,7 @@ function MyForm() {
                     <span>Passwords do not match</span>
                 )}
             </div>
-            
+
             <div className="input-group">
                 <button type="submit">Sign Up</button>
             </div>
